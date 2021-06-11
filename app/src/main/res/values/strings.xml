@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AssetTelematics</string>
+    <string name="tag_name"><font size="12">Tag Name</font></string>
+    <string name="reg_no"><font size="12">Registration Number</font></string>
+
+    <string-array name="vehicle_model">
+        <item>Grand Vitara</item>
+        <item>Creta</item>
+        <item>Verna</item>
+    </string-array>
+</resources>
